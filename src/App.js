@@ -8,6 +8,7 @@ import Products from './Components/pages/Products';
 import Services from './Components/pages/Services';
 import SignUp from './Components/pages/SignUp';
 import Footer from './Components/Footer';
+
 function App() {
   return (
     <BrowserRouter>

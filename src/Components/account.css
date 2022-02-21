@@ -1,0 +1,27 @@
+body{
+    background-image:  url('../images/img-2.jpg');
+}
+.form-container{
+    margin: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.text-danger{
+    color: red;
+}
+.form-control{
+    border: 1.5px solid grey;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.form-btn{
+    border: 1.5px solid #242424;
+    border-radius: 5px;
+    align-items: center;
+    background-color:#242424 ;
+    color: white;
+}

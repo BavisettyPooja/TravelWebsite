@@ -6,9 +6,6 @@
     max-width: 100%;
     overflow-x: hidden;
   }
-  ::-webkit-scrollbar:horizontal {
-    display: none;
-  }
   .home,
   .services,
   .products,

@@ -1,3 +1,4 @@
+
 video{
     object-fit: cover;
     width: 100%;
@@ -7,6 +8,7 @@ video{
 }
 
 .hero-container{
+  overflow: hidden;
     background: url('../images/img-home.jpg') 
     center center/cover no-repeat;
     height: 100vh;
@@ -24,6 +26,7 @@ video{
     color: white;
     font-size: 100px;
     margin-top: -100px;
+    
 }
 
 .hero-container > p{

@@ -1,8 +1,9 @@
 import React from "react";
 import '../../App.css'
+import Account from "../account";
 
 export default function SignUp () {
     return(
-        <h1 className="sign-up">Sign up</h1>
+        <Account/>
     )
 }
